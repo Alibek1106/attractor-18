@@ -1,0 +1,109 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	color: #767575;
+	font-size: 14px;
+}
+
+.bg-green{
+	background: #5bbc2e;
+}
+
+.text-green{
+	color: #5bbc2e;
+}
+
+.nav-link{
+	font-size: 13px;
+}
+
+.main-block{
+	padding: 200px 0 80px;
+	background: url(../images/main-pic.jpg) 50% / cover no-repeat;
+}
+
+.slogan{
+	max-width: 600px;
+	margin: 1em auto;
+}
+
+.description{
+	font-size: 12px;
+	max-width: 770px;
+}
+
+.arial{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #515151;
+}
+
+.name-of-cards{
+	padding-top: 70px;
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+
+.name-of-card-1{
+	background-image: url('../images/way.png');
+}
+
+.name-of-card-2{
+	background-image: url('../images/list.png');
+}
+
+.name-of-card-3{
+	background-image: url('../images/house.png');
+}
+
+.name-of-card-4{
+	background-image: url('../images/people.png');
+}
+
+.right-column{
+	max-width: 456px;
+}
+
+.two-blocks-2-left{
+	max-width: 410px;
+}
+
+.list-two-blocks-2{
+	list-style-image: url('../images/arrow.png');
+}  
+
+
+.list-two-blocks-2 li:not(:last-child){
+	margin-bottom: 7px;
+}
+
+.card-image{
+	width: 100%;
+	height: 183px;
+}
+
+.card{
+	padding: 0;
+}
+
+.fz-12px{
+	font-size: 12px;
+}
+
+.btn{
+	color: #fff;
+	border: none;
+}
+
+.bg-purple{
+	background: #c42fc9;
+}
+
+.color-light{
+	color: #fff;
+	padding: 30px 0;
+	margin: 0;
+}
+
+.footer{
+	background-color: #141414;
+}
